@@ -1,4 +1,5 @@
 # Make n8n + ollama + Qdrant RAG System
+![alt text](image.png)
 <br>
 
 # 1. n8n install
