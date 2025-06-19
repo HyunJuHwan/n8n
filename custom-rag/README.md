@@ -135,3 +135,9 @@ configs:
 ```
 docker compose up -d
 ```
+<br>
+
+# 이슈사항
+1. n8n에서 localhost 참조방법
+    - 도커로 구현 시 localhost 참조를 못하는 이슈
+        - http://host.docker.internal:11434 로 사용
